@@ -1,0 +1,7 @@
+Sausages!!!
+
+Just another silly file to test adding from within GitHub
+
+Actually, should be my reflections file for lesson 3, so...
+
+When would you want to use a remote repository rather than keeping all your work local?
